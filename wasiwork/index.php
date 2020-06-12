@@ -5,6 +5,9 @@
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
+        <div class="col-xl-9 mx-auto">
+          <h1 class="my-5">La mejor manera de estudiar o trabajar desde casa</h1>
+        </div>
         <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
           <a href="products.php" class="mt-2 btn btn btn-lg btn-success">Ver todos los productos</a>
         </div>
@@ -19,7 +22,7 @@
         <div class="col-lg-4">
           <div class="services-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
             <div class="services-icons-icon d-flex">
-              <img src = "../img/office-chair.png" alt ="">
+              <img src = "./img/office-chair.png" alt ="">
             </div>
             <h3>Sillas</h3>
             <p class="lead mb-0">This theme will look great on any device, no matter the size!</p>
@@ -28,7 +31,7 @@
         <div class="col-lg-4">
           <div class="services-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
             <div class="services-icons-icon d-flex">
-              <img src = "../img/office-chair.png" alt = "">
+              <img src = "./img/furniture-and-household.png" alt = "">
             </div>
             <h3>Escritorios & Mesas</h3>
             <p class="lead mb-0">Featuring the latest build of the new Bootstrap 4 framework!</p>
@@ -37,7 +40,7 @@
         <div class="col-lg-4">
           <div class="services-icons-item mx-auto mb-0 mb-lg-3">
             <div class="services-icons-icon d-flex">
-              <img src = "../img/office-chair.png" alt = "">
+              <img src = "./img/computer.png" alt = "">
             </div>
             <h3>Soportes para Laptop</h3>
             <p class="lead mb-0">Ready to use with your own content, or customize the source files!</p>
